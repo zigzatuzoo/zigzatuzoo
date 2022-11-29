@@ -2,14 +2,14 @@
 I am Zigzatuzoo. I am a person and enjoy things that people often enjoy.
 
 ![Zigzatuzoo's Stats](https://github-readme-stats.vercel.app/api?username=zigzatuzoo&show_icons=true&theme=radical)
-
-
 ## Current Projects
 - Computer Science Homework. 
 > This can be found [here](https://www.zigzatuzoo.xyz/cspap)
-- Random Projects
-> Which will all be linked [here](https://www.zigzatuzoo.xyz/current-projects)
-- R3L Backend Development
-> For those who don't know, R3L is the Rec Room Racing League. My team and I are working on plenty of tools to allow for easier data formatting. (The discord invite can be found [here](https://discord.r3l.org))
-- TuxChatExtreme
-> A simple text chat application using PyQT. It's a project some friends and I made to talk on some unblocked TCP ports on the school network during class.
+- Currently working at a software company doing PenTesting so post some of the things I make here occasionally
+
+#
+## Cool Things I've Made
+
+- Easy-Install Script for Kali Win-KeX ![Win Kex Install Script](https://github.com/zigzatuzoo/Win-KeX-Install-Script)
+- A place to put api based tools for RecRoom ![Rec Room API Toolbox](https://github.com/zigzatuzoo/Rec-Room-API-Tool-Box)
+- Text Chat Client I made with a friend in a Computer Science class ![TuxChatExtreme](https://github.com/BigweldIndustries/TuxChatExtreme)
