@@ -10,6 +10,6 @@ I am Zigzatuzoo. I am a person and enjoy things that people often enjoy.
 #
 ## Cool Things I've Made
 
-- Easy-Install Script for Kali Win-KeX ![Win Kex Install Script](https://github.com/zigzatuzoo/Win-KeX-Install-Script)
-- A place to put api based tools for RecRoom ![Rec Room API Toolbox](https://github.com/zigzatuzoo/Rec-Room-API-Tool-Box)
-- Text Chat Client I made with a friend in a Computer Science class ![TuxChatExtreme](https://github.com/BigweldIndustries/TuxChatExtreme)
+- Easy-Install Script for Kali Win-KeX [Win Kex Install Script](https://github.com/zigzatuzoo/Win-KeX-Install-Script)
+- A place to put api based tools for RecRoom [Rec Room API Toolbox](https://github.com/zigzatuzoo/Rec-Room-API-Tool-Box)
+- Text Chat Client I made with a friend in a Computer Science class [TuxChatExtreme](https://github.com/BigweldIndustries/TuxChatExtreme)
