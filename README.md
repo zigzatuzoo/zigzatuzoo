@@ -3,9 +3,8 @@ I am Zigzatuzoo. I am a person and enjoy things that people often enjoy.
 
 ![Zigzatuzoo's Stats](https://github-readme-stats.vercel.app/api?username=zigzatuzoo&show_icons=true&theme=radical)
 ## Current Projects
-- Computer Science Homework. 
-> This can be found [here](https://www.zigzatuzoo.xyz/cspap)
-- Currently working at a software company doing PenTesting so upload some of the things I make here occasionally
+- Busy with life ...
+- Have a few personal projects I'm upkeeping but for the time being thats about it.
 
 #
 ## Cool Things I've Worked On
